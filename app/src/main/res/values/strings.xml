@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Amikom Center</string>
+    <string name="jenis_kelas">Mulai Desain Dengan Adobe</string>
+    <string name="price">RP. 250000</string>
+    <string name="see_detail">Lihat Detail</string>
+    <string name="mentor">Mentor</string>
+    <string name="nama_mentor">Widya Wiwaha</string>
+    <string name="job_mentor">UI at Tokopedia</string>
 </resources>
