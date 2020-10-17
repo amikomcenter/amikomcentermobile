@@ -14,4 +14,10 @@
     <string name="atau_masuk_dengan">Atau masuk dengan</string>
     <string name="twitter_imgbtn">twitter_imgbtn</string>
     <string name="belum_mempunyai_akun">Belum mempunyai akun ? <b>Daftar</b></string>
+    <string name="sign_up">Sign Up</string>
+    <string name="for_join_with_us">For join with us</string>
+    <string name="first_name">First name</string>
+    <string name="last_name">Last Name</string>
+    <string name="re_password">Re-password</string>
+    <string name="daftar">Daftar</string>
 </resources>
