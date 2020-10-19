@@ -20,4 +20,9 @@
     <string name="last_name">Last Name</string>
     <string name="re_password">Re-password</string>
     <string name="daftar">Daftar</string>
+    <string name="lanjut">Lanjut</string>
+    <string name="description_of_each_slider">Description of each slider</string>
+
+    <string name="onboarding1"><b>Amikom Center</b> Menyediakan course teknologi informasi yang mencakup berbagai bidang.</string>
+    <string name="onboarding2"><b>Tenaga pengajar</b> yang memiliki kompetensi dalam bidangnya masing - masing.</string>
 </resources>
