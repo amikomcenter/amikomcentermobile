@@ -25,4 +25,25 @@
 
     <string name="onboarding1"><b>Amikom Center</b> Menyediakan course teknologi informasi yang mencakup berbagai bidang.</string>
     <string name="onboarding2"><b>Tenaga pengajar</b> yang memiliki kompetensi dalam bidangnya masing - masing.</string>
+    <string name="home">Home</string>
+    <string name="favorite">Favorite</string>
+    <string name="my_courses">My Courses</string>
+    <string name="keranjang">Keranjang</string>
+    <string name="akun">Akun</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dummy_search">Cari kelas disini ...</string>
+    <string name="category">Category</string>
+    <string name="desain_multimedia"><![CDATA[Desain & Multimedia]]></string>
+    <string name="bisnis_sdm"><![CDATA[Bisnis & Pengembangan SDM]]></string>
+    <string name="networking">Networking</string>
+    <string name="programming_web">Programming Web</string>
+    <string name="top_course">Top Course</string>
+    <string name="dummy_topcourse_text">Mulai Desain Aplikasi Mobile Dengan Figma</string>
+    <string name="dummy_topCoursePrice">Rp. 200.000,-</string>
+    <string name="dummy_PriceStrike">Rp.300.000,-</string>
+    <string name="webinar">Webinar</string>
+    <string name="see_all"><![CDATA[See All >]]></string>
+    <string name="internship_program">Internship Program</string>
+    <string name="amikom_center_blog">Amikom Center Blog</string>
 </resources>

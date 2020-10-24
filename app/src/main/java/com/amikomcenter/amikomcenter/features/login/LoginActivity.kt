@@ -5,6 +5,7 @@ import android.os.Bundle
 import android.view.View
 import androidx.appcompat.app.AppCompatActivity
 import com.amikomcenter.amikomcenter.R
+import com.amikomcenter.amikomcenter.features.dashboard.DashboardActivity
 import com.amikomcenter.amikomcenter.features.register.RegisterActivity
 import kotlinx.android.synthetic.main.activity_login.*
 
@@ -21,6 +22,11 @@ class LoginActivity : AppCompatActivity() {
 
         daftar_textview.setOnClickListener{
             val i = Intent(applicationContext, RegisterActivity::class.java)
+            startActivity(i)
+        }
+
+        btn_masuk.setOnClickListener {
+            val i = Intent(applicationContext, DashboardActivity::class.java)
             startActivity(i)
         }
 
