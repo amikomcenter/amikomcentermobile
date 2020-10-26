@@ -8,6 +8,7 @@ import android.view.View
 import android.view.ViewGroup
 import android.widget.TextView
 import com.amikomcenter.amikomcenter.R
+import com.amikomcenter.amikomcenter.adapter.HomeAmikomCenterBlogAdapter
 import com.amikomcenter.amikomcenter.adapter.HomeCarouselAdapter
 import com.amikomcenter.amikomcenter.adapter.HomeTopCourseAdapter
 import kotlinx.android.synthetic.main.fragment_home.*
@@ -26,6 +27,7 @@ class HomeFragment : Fragment() {
 
         rvCarousel.adapter = HomeCarouselAdapter(view.context)
         rvTopCourse.adapter = HomeTopCourseAdapter(view.context)
+        rv_amikomcenterblog.adapter = HomeAmikomCenterBlogAdapter(view.context)
 
     }
 

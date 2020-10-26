@@ -46,4 +46,7 @@
     <string name="see_all"><![CDATA[See All >]]></string>
     <string name="internship_program">Internship Program</string>
     <string name="amikom_center_blog">Amikom Center Blog</string>
+    <string name="dummy_amikomcentertitle">AMIKOM TALK SERIES 1 : The Journey Behind The IT Career</string>
+    <string name="game_development">Game Development</string>
+    <string name="dummy_date">25 September 2020</string>
 </resources>
