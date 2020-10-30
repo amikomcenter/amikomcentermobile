@@ -49,4 +49,16 @@
     <string name="dummy_amikomcentertitle">AMIKOM TALK SERIES 1 : The Journey Behind The IT Career</string>
     <string name="game_development">Game Development</string>
     <string name="dummy_date">25 September 2020</string>
+    <string name="title_akun">Akun</string>
+    <string name="hello">Hello</string>
+    <string name="dummy_name">Ahmad Zuhair Dzulfiqor</string>
+    <string name="account_detail">Account Detail</string>
+    <string name="personal_info">Personal Info</string>
+    <string name="certificate">Certificate</string>
+    <string name="message">Message</string>
+    <string name="membership">Membership</string>
+    <string name="lainnya">Lainnya</string>
+    <string name="tentang_amikom_center">Tentang Amikom Center</string>
+    <string name="review_aplikasi">Review Aplikasi</string>
+    <string name="keluar">Keluar</string>
 </resources>

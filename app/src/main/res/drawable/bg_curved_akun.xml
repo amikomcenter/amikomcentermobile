@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item>
+        <shape>
+
+            <solid
+                android:color="@color/colorPrimary"
+                />
+
+            <corners
+                android:bottomLeftRadius="20dp"
+                android:bottomRightRadius="20dp"
+                />
+
+        </shape>
+    </item>
+
+    <item
+        android:right="-32dp">
+        <bitmap
+            android:src="@drawable/accent_bg_akun"
+            android:gravity="center|right"
+            />
+    </item>
+
+</layer-list>

@@ -15,7 +15,7 @@
 
         <androidx.constraintlayout.widget.ConstraintLayout
             android:layout_width="match_parent"
-            android:layout_height="match_parent"
+            android:layout_height="wrap_content"
             android:backgroundTint="#F8F8F8">
 
             <RelativeLayout
@@ -346,6 +346,19 @@
                 android:textStyle="bold"
                 app:layout_constraintStart_toStartOf="@+id/textView8"
                 app:layout_constraintTop_toBottomOf="@+id/imgInternship" />
+
+            <TextView
+                android:id="@+id/seeAllAmikomCenterBlog"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="18dp"
+                android:clickable="true"
+                android:text="@string/see_all"
+                android:textColor="@color/colorPrimaryLight"
+                android:textStyle="bold"
+                app:layout_constraintBottom_toBottomOf="@+id/textView9"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintTop_toTopOf="@+id/textView9" />
 
             <androidx.recyclerview.widget.RecyclerView
                 android:id="@+id/rv_amikomcenterblog"

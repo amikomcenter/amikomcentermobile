@@ -20,6 +20,7 @@ class LoginActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_login)
 
+
         daftar_textview.setOnClickListener{
             val i = Intent(applicationContext, RegisterActivity::class.java)
             startActivity(i)
